@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "509728020604",
+    "firebase_url": "https://demorff.firebaseio.com",
+    "project_id": "demorff",
+    "storage_bucket": "demorff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509728020604:android:7500b94b79b58afd",
+        "android_client_info": {
+          "package_name": "com.example.duyda.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509728020604-5kdd6p8d4m955lk0gbcbhhai92msorvp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm3tXYK8KegcmTkgShdFu19d_3QrZDnzI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
